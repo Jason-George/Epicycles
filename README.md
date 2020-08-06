@@ -6,7 +6,10 @@ by [3Blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), whic
 
 The only thing i wanted was to add lines to the epicycles, to show the rotation and it is captured in a simple way in the file Simple_Epicycles.py
 
-The rest of the code basically comes the first mentioned repository,although made it very simple to whatever i wanted to do and you can find instructions on the page.
+The rest of the code basically comes the first mentioned repository,although made it very simple to whatever 
+i wanted to do and you can find instructions on the [page} ((https://github.com/thinking-tower/Fourier-and-Images.git)
+)
+
 
 Here is an example
 ![](https://github.com/Jason-George/Epicycles/blob/master/Examples_GIF/Lily.gif)
