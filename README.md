@@ -11,4 +11,4 @@ The rest of the code basically comes the first mentioned repository,although mad
 Here is an example
 ![](https://github.com/Jason-George/Epicycles/blob/master/Examples_GIF/Lily.gif)
 
-I've added a Jupyter [notebook][https://github.com/Jason-George/Epicycles/blob/master/Pre_Process.ipynb] to show some pre_processing work on the image.
+I've added a Jupyter [notebook](https://github.com/Jason-George/Epicycles/blob/master/Pre_Process.ipynb) to show some pre_processing work on the image.
