@@ -1,4 +1,4 @@
-# Most of the code comes from the repository [thinking-tower](https://github.com/thinking-tower/Fourier-and-Images.git)
+# Most of the code comes from the repository [thinking-tower/Fourier-and_Images](https://github.com/thinking-tower/Fourier-and-Images.git)
 
 Initally led to this project by watching this [playlist](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) 
 by [3Blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), which in turn led me to this 
