@@ -8,7 +8,6 @@ The only thing i wanted was to add lines to the epicycles, to show the rotation 
 
 The rest of the code basically comes the first mentioned repository,although made it very simple to whatever 
 i wanted to do and you can find instructions on the [page] (https://github.com/thinking-tower/Fourier-and-Images.git)
-)
 
 
 Here is an example
